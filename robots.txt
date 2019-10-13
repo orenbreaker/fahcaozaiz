@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://soaregewe.spiacimnich.sk/sitemap.xml
